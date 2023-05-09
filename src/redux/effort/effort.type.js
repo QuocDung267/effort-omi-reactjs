@@ -1,0 +1,1 @@
+export const RECEIVE_EFFORT = "RECEIVE_EFFORT";
